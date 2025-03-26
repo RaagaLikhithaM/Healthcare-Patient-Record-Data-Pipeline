@@ -60,13 +60,18 @@ Designed an Enhanced Entity-Relationship (EER) Diagram to ensure relational inte
 Defined primary and foreign key constraints to optimize table relationships
 **Production-Ready Queries:**
 Built production views to streamline insights into patient outcomes, financial performance, and operational efficiency
-Effective Prompt Engineering
+
+**Effective Prompt Engineering**
+
 Collaborated with ChatGPT to address complex challenges and refine the project:
 Corrected outputs and ensured adherence to best practices, showcasing a strong grasp of Python and SQL fundamentals
 Used precise, iterative prompts to tailor solutions, enhancing both script efficiency and functionality
 Demonstrated the ability to balance tool-assisted problem-solving with independent critical thinking
-Business Intelligence Integration
-Hospital Patient Records Dashboard
+
+**Business Intelligence Integration
+Hospital Patient Records Dashboard**
 **Dynamic Dashboarding:**
 Integrated MySQL views with Power Query to create a live dashboard for monitoring KPIs
 Enabled decision-making with real-time data visualization
+
+
